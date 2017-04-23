@@ -1,0 +1,4 @@
+name = Dynamic Content-Types
+description = Allows a user with permission to create content type dynamically using a pre-defined template as non-editable base version
+core = 7.x
+package = Content-Types
